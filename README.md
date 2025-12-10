@@ -21,7 +21,7 @@ Hi, I’m Riswanth Ragav Ilayarja
 🧭 Trust Scope – Active Directory Risk Mapping & Visualization Tool
 A graph-based application that maps trust relationships, identifies privilege escalation paths, and assigns risk scores to high-privilege accounts.
 In true data-driven fashion, here’s the project if you’d like to see it in action:
-👉 Project Link
+👉 Project Link : https://trustscope.streamlit.app/
 
 💼 Let’s Connect
 
